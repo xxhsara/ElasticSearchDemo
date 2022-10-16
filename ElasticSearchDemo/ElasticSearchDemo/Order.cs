@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Nest;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace ElasticSearchDemo
     {
         public string Id { get; set; }
 
+        [Keyword]
         public string Name { get; set; }
     }
 }

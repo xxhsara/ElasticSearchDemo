@@ -8,7 +8,7 @@ ConnectionSettings setting = new ConnectionSettings(new Uri("http://192.168.10.1
 
 ElasticClient client = new ElasticClient(setting);
 
-ElasticSearchUtilty.InsertObject(client);
+//ElasticSearchUtilty.InsertObject(client);
 
 ElasticSearchUtilty.Search(client);
 

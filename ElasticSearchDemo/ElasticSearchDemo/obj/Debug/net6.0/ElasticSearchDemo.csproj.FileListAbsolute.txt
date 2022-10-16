@@ -16,3 +16,4 @@ E:\09项目实战\ElasticSearchDemo\ElasticSearchDemo\ElasticSearchDemo\obj\Debu
 E:\09项目实战\ElasticSearchDemo\ElasticSearchDemo\ElasticSearchDemo\obj\Debug\net6.0\ElasticSearchDemo.pdb
 E:\09项目实战\ElasticSearchDemo\ElasticSearchDemo\ElasticSearchDemo\obj\Debug\net6.0\ElasticSearchDemo.genruntimeconfig.cache
 E:\09项目实战\ElasticSearchDemo\ElasticSearchDemo\ElasticSearchDemo\obj\Debug\net6.0\ref\ElasticSearchDemo.dll
+E:\09项目实战\ElasticSearchDemo\ElasticSearchDemo\ElasticSearchDemo\obj\Debug\net6.0\ElasticSearchDemo.csproj.ResolveComReference.cache
